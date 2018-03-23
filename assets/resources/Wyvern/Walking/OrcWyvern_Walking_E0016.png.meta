@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3479a7d9-e0e2-4f8a-a1e0-6cd06c87f484",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "OrcWyvern_Walking_E0016": {
+      "ver": "1.0.3",
+      "uuid": "1910c57f-178b-42c4-8848-e884f19f4460",
+      "rawTextureUuid": "3479a7d9-e0e2-4f8a-a1e0-6cd06c87f484",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 6.5,
+      "offsetY": -3,
+      "trimX": 26,
+      "trimY": 40,
+      "width": 137,
+      "height": 102,
+      "rawWidth": 176,
+      "rawHeight": 176,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a10452bf-c5f7-47b0-85a3-1fb5050ca38d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "OrcWyvern_TakingDamage_N0012": {
+      "ver": "1.0.3",
+      "uuid": "294b68b7-1f6d-4d76-be37-4297db662631",
+      "rawTextureUuid": "a10452bf-c5f7-47b0-85a3-1fb5050ca38d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 8,
+      "offsetY": -15,
+      "trimX": 52,
+      "trimY": 50,
+      "width": 88,
+      "height": 106,
+      "rawWidth": 176,
+      "rawHeight": 176,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

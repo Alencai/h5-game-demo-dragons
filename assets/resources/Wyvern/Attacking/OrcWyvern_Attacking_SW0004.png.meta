@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ae725544-8d9c-4555-9a9c-419bd1ffcd1b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "OrcWyvern_Attacking_SW0004": {
+      "ver": "1.0.3",
+      "uuid": "8de8780e-63a5-4228-9ae8-0244c5b32acf",
+      "rawTextureUuid": "ae725544-8d9c-4555-9a9c-419bd1ffcd1b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4.5,
+      "offsetY": -12,
+      "trimX": 51,
+      "trimY": 71,
+      "width": 83,
+      "height": 58,
+      "rawWidth": 176,
+      "rawHeight": 176,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

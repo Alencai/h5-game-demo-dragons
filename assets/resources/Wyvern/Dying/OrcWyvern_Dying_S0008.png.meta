@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "34315d69-9c0a-4ccf-a399-7ddd14dee326",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "OrcWyvern_Dying_S0008": {
+      "ver": "1.0.3",
+      "uuid": "42d61d0e-ffda-4693-b103-1e3a780d1985",
+      "rawTextureUuid": "34315d69-9c0a-4ccf-a399-7ddd14dee326",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 9.5,
+      "offsetY": -3,
+      "trimX": 48,
+      "trimY": 63,
+      "width": 99,
+      "height": 56,
+      "rawWidth": 176,
+      "rawHeight": 176,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
